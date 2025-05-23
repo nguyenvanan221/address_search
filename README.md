@@ -1,16 +1,15 @@
-# address_search
+# an address search screen
 
-A new Flutter project.
+Flutter project
 
-## Getting Started
+## Demo
+![image](https://github.com/user-attachments/assets/1347e6ce-a363-47dd-a018-df5df20df2d4)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/61cd7641-94f8-4412-8ed2-65d62215208a)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/9f477275-cafd-4951-b368-4e9488632106)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/bf3c1543-7d44-4c82-b9a8-81e507085815)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/09d55217-f365-4a90-8185-8989986e3df2)
+
